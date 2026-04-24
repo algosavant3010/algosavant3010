@@ -27,7 +27,7 @@ const naman = {
   name:       "Naman Agarwal",
   alias:      "algosavant3010",
   role:       "Full Stack Developer",
-  education:  "Computer Engineering Student (3rd Year)",
+  education:  "Third Year Computer Engineering Student (3rd Year)",
   stack:      ["MongoDB", "Express.js", "React", "Node.js"],
   interests:  ["Web Dev", "DSA", "Open Source", "System Design"],
   funFact:    "I debug with console.log and I'm not ashamed 🐛"
