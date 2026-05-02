@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-algosavant3010-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/algosavant3010)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman%20Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-agarwal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naman%20Agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman-agarwal-50026430a/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6EE7F7?style=for-the-badge&logo=firefox&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalnaman3010@gmail.com)
 
