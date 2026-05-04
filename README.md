@@ -6,6 +6,9 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Naman+%F0%9F%91%8B;Full+Stack+MERN+Developer;Computer+Engineering+Student;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghprofile/views-counter/algosavant3010?label=Profile%20Views&labelColor=6EE7F7&textColor=ffffff&bg_color=0d1117&title_color=3B82F6&count_color=8B5CF6&style=for-the-badge" alt="Profile Views" />
+
 <br/>
 
 <!-- Social Badges -->
@@ -82,6 +85,12 @@ const naman = {
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=algosavant3010&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6EE7F7&line=3B82F6&point=8B5CF6" />
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/algosavant3010/algosavant3010/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/algosavant3010/algosavant3010/output/github-snake.svg" alt="Contribution Snake" />
+</picture>
 
 </div>
 
