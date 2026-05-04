@@ -10,29 +10,29 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: false
-          clean: true
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: algosavant3010
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             output/github-snake.svg
-            output/github-snake-dark.svg
+            output/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake images to output branch
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "github-action@github.com"
-          git checkout -b output
-          git add output/
-          git commit -m "feat: update contribution snake SVG"
-          git push -f origin output
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: output
+          branch: output
+          commit-message: "feat: update contribution snake SVG"
+          clean: true
