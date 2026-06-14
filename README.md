@@ -33,9 +33,7 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-Live-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/algosavant3010">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+
 
 </div>
 
@@ -169,19 +167,6 @@ DSA / CP     █████████████░░   85 %
   <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=algosavant3010&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=1E88E5&point=38BDF8&radius=10&area=true&area_color=1E88E5" />
 </div>
 
----
-
-<!-- ██████████████████████████████████████████████████████████████ -->
-<!--                   LEETCODE STATS                            -->
-<!-- ██████████████████████████████████████████████████████████████ -->
-
-## 🏅 &nbsp;LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/algosavant3010?theme=dark&font=JetBrains%20Mono&ext=activity&border=0&radius=12" alt="LeetCode Stats" />
-
-</div>
 
 ---
 
@@ -251,9 +236,7 @@ DSA / CP     █████████████░░   85 %
 <a href="https://github.com/algosavant3010" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
-<a href="https://leetcode.com/algosavant3010" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>&nbsp;
+
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
@@ -307,11 +290,9 @@ DSA / CP     █████████████░░   85 %
 ║  2. FEATURED PROJECTS                                        ║
 ║     → Replace YOUR_REPO_1 & YOUR_REPO_2 with real repo names ║
 ║                                                              ║
-║  3. LEETCODE USERNAME                                        ║
-║     → Make sure your LeetCode username is algosavant3010     ║
-║     → If different, update all LeetCode URLs accordingly     ║
 ║                                                              ║
-║  4. PORTFOLIO LINK                                           ║
+║                                                              ║
+║  3. PORTFOLIO LINK                                           ║
 ║     → Replace the # in Portfolio badges with your real URL   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
