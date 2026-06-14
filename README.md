@@ -151,8 +151,8 @@ DSA / CP     █████████████░░   85 %
 <div align="center">
 
 <a href="https://github.com/algosavant3010">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=algosavant3010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=1E88E5&text_color=c9d1d9&border_radius=12&ring_color=38BDF8" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algosavant3010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_radius=12&langs_count=8&card_width=340" />
+  <img height="175em" src=["https://github-readme-stats.vercel.app/api?](https://github-readme-stats.vercel.app/api?username=algosavant3010&show_icons=true&cache_seconds=1800)username=algosavant3010&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=1E88E5&text_color=c9d1d9&border_radius=12&ring_color=38BDF8" />
+  <img height="175em" src=["https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats.vercel.app/api/top-langs/?username=algosavant3010&layout=compact&cache_seconds=1800)username=algosavant3010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_radius=12&langs_count=8&card_width=340" />
 </a>
 
 </div>
