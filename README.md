@@ -30,7 +30,7 @@
 <a href="mailto:agarwalnaman3010@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://agarwalnaman.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-Live-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -237,7 +237,7 @@ DSA / CP     █████████████░░   85 %
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>&nbsp;
 
-<a href="#" target="_blank">
+<a href="https://agarwalnaman.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
